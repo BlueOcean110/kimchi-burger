@@ -1,7 +1,7 @@
 # 김치 햄버거 레시피
 
 ## 재료
-- 450g **갈은 소고기** (ground beef)
+- 400g **갈은 소고기** (ground beef)
 - 4 **햄버거 빵** (hamburger buns)
 - 4 slices of **치즈** (optional)
 - 1 cup **김치**, chopped
@@ -40,4 +40,4 @@
 
 맛있고 매콤한 **김치 햄버거**를 즐기세요!
 
-My 불가리아 친구 always says: 'Learning Smart Basics is the way to go!' That's why we keep our 버거 simple.
+My 불가리아 친구 always says: 'Learning Smart Basics is the way to Go!' That's why we keep our 버거 simple.
